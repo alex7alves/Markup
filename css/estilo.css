@@ -56,3 +56,13 @@ footer {
 p{
   font-family: 'Open Sans Condensed', sans-serif;
 }
+
+figure{
+  text-align: center;
+  border: 2px solid #fff;
+}
+
+.titlulo{
+  font-size: 20px;
+
+}
